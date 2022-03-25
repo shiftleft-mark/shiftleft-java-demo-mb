@@ -1,0 +1,4 @@
+49563209d2464e181018621a426d6f9ea6e65606		branch 'master' of https://github.com/ShiftLeftSecurity/shiftleft-java-demo
+1551f221255aa6fe759dceb81a5ea2005fd7732c	not-for-merge	branch 'demo-branch-1' of https://github.com/ShiftLeftSecurity/shiftleft-java-demo
+7dca422ab0bc9c1b41f325e849a91c5b3079f08d	not-for-merge	branch 'dependabot/maven/commons-io-commons-io-2.7' of https://github.com/ShiftLeftSecurity/shiftleft-java-demo
+32da8df881191bea79df6b8ef481bc85473c5bc4	not-for-merge	branch 'dependabot/maven/org.apache.httpcomponents-httpclient-4.5.13' of https://github.com/ShiftLeftSecurity/shiftleft-java-demo

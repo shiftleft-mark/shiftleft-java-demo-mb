@@ -1,0 +1,5 @@
+# pack-refs with: peeled fully-peeled sorted 
+1551f221255aa6fe759dceb81a5ea2005fd7732c refs/remotes/origin/demo-branch-1
+7dca422ab0bc9c1b41f325e849a91c5b3079f08d refs/remotes/origin/dependabot/maven/commons-io-commons-io-2.7
+32da8df881191bea79df6b8ef481bc85473c5bc4 refs/remotes/origin/dependabot/maven/org.apache.httpcomponents-httpclient-4.5.13
+49563209d2464e181018621a426d6f9ea6e65606 refs/remotes/origin/master
